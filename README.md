@@ -10,7 +10,7 @@ The demo e-commerce environment consists of several components that work togethe
 4. Enter the *ip r* command to obtain the machine's IP address, for example, *192.168.56.101*.
 Next, in the hosts file of your host, add the following line:
 ```
-e.com 192.168.56.101 (example IP of the Linux machine)
+e.com *IP of the Linux machine*
 ```
 **Login credentials**
 
