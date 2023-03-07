@@ -4,7 +4,7 @@ The demo e-commerce environment consists of several components that work togethe
 
 ### How to deploy
 
-1. Run [the Ecom-demo.ova]() file and import it into VirtualBox.
+1. Run [the Ecom-demo.ova](https://drive.google.com/file/d/100PKESRCfzKOjt9L_AIaOMJUYPC3Cchc/view?usp=sharing) file and import it into VirtualBox.
 2. In the Network settings, select either Bridge or Host-Only.
 3. Start the virtual machine. The login and password for the Linux system are *ubuntu:ubuntu*.
 4. Enter the *ip r* command to obtain the machine's IP address, for example, *192.168.56.101*.
